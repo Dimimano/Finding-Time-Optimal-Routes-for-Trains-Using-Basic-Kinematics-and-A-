@@ -1,2 +1,8 @@
 # Finding-Time-Optimal-Routes-for-Trains-Using-Basic-Kinematics-and-A-
 The code implementation of my dissertation for the AI &amp; Data Analytics Master's program @ University of Macedonia
+
+This study tackles the problem of finding time optimal routes for trains over a railway network. The problem is defined as follows: A train has a known length. The position of the train is defined over parts of one or more consecutive track segments. There are a maximum speed, a maximum acceleration and a maximum deceleration capability for the train. Each track segment has a maximum allowed speed for any train being over it. A problem instance is defined by an initial and a goal state, which are two positions accompanied with desired speeds (being usually, but not necessarily, zero). In this paper we are interested in minimizing the total duration of reaching the goal state from the initial one; other metrics such as fuel consumption could be considered.
+
+We solve this problem using basic kinematics and A*. We present two algorithms: The first one computes analytically in continuous space the optimal speed profile of the train for a problem defined over a given path. The second algorithm extends the first one over arbitrary graphs. A* empowered with a simple admissible heuristic is employed to find the optimal combination of speed profile and path.
+
+Manolakis, D., Refanidis, I. (2024). Finding Time Optimal Routes for Trains Using Basic Kinematics and A. In: Nowaczyk, S., et al. Artificial Intelligence. ECAI 2023 International Workshops. ECAI 2023. Communications in Computer and Information Science, vol 1947. Springer, Cham. https://doi.org/10.1007/978-3-031-50396-2_7
