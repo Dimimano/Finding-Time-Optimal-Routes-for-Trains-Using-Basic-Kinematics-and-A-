@@ -1,5 +1,5 @@
-# Finding-Time-Optimal-Routes-for-Trains-Using-Basic-Kinematics-and-A-
-The code implementation of my dissertation for the AI &amp; Data Analytics Master's program @ University of Macedonia
+# Finding-Time-Optimal-Routes-for-Trains-Using-Basic-Kinematics-and-A*
+The code implementation of my dissertation for the AI &amp; Data Analytics Master's program @ University of Macedonia.
 
 This study tackles the problem of finding time optimal routes for trains over a railway network. The problem is defined as follows: A train has a known length. The position of the train is defined over parts of one or more consecutive track segments. There are a maximum speed, a maximum acceleration and a maximum deceleration capability for the train. Each track segment has a maximum allowed speed for any train being over it. A problem instance is defined by an initial and a goal state, which are two positions accompanied with desired speeds (being usually, but not necessarily, zero). In this paper we are interested in minimizing the total duration of reaching the goal state from the initial one; other metrics such as fuel consumption could be considered.
 
