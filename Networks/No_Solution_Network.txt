@@ -1,0 +1,12 @@
+S A {'label':0,'maxspeed': 50, 'length':150, 'straight_line': 2000}
+A B {'label':1,'maxspeed': 30, 'length':500, 'straight_line': 1400}
+A C {'label':2,'maxspeed': 90, 'length':400, 'straight_line': 1200}
+B D {'label':3,'maxspeed': 40, 'length':500, 'straight_line': 900}
+C E {'label':4,'maxspeed': 150, 'length':200, 'straight_line': 900}
+C F {'label':5,'maxspeed': 65, 'length':1000, 'straight_line': 500}
+D G {'label':6,'maxspeed': 75, 'length':850, 'straight_line': 500}
+E H {'label':7,'maxspeed': 5, 'length':600, 'straight_line': 50}
+F H {'label':8,'maxspeed': 55, 'length':500, 'straight_line': 50}
+G E {'label':9,'maxspeed': 35, 'length':200, 'straight_line': 900}
+G H {'label':10,'maxspeed': 40, 'length':450, 'straight_line': 50}
+H T {'label':11,'maxspeed': 20, 'length':150, 'straight_line': 0}

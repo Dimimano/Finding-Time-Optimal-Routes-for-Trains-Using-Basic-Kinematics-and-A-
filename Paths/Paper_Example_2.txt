@@ -1,0 +1,8 @@
+init = (([1],0),0)
+goal = (([6],0),0)
+trainLength = 150
+maxAcc = 1.5
+maxDec = 0.5
+trainMaxSpeed = 78
+maxSpeeds = [20,20,50,65,85,10]
+positions = [150,300,1100,1800,2400,2550] 
